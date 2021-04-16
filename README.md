@@ -12,9 +12,9 @@ My team won third place in the [2020 Student Cluster Competition](https://sc20.s
 in which I wrote the highest scoring MemXCT reproducibility paper!
 
 I love to write in Haskell, Nix, and TypeScript in my spare time. When I'm being
-a systems programmer, I of course also like to write C and Rust (though I'm
-still learning Rust!). I'm comfortable with a lot of mainstream languages and
-frameworks, and I'm always looking to learn more!
+a systems programmer, I also like to write C and Rust. I'm comfortable with a
+lot of mainstream languages and frameworks, and I'm always looking to learn
+more!
 
 Currently looking for internships for the summer of 2021! Feel free to contact
 me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
