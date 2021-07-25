@@ -11,18 +11,18 @@ I've recently been specializing in High Performance Computing at Georgia Tech.
 My team won third place in the [2020 Student Cluster Competition](https://sc20.supercomputing.org/program/studentssc/student-cluster-competition/),
 in which I wrote the highest scoring MemXCT reproducibility paper!
 
-I love to write in Haskell, Nix, and TypeScript in my spare time. When I'm being
-a systems programmer, I also like to write Rust and C. I'm comfortable with a
-lot of mainstream languages and frameworks, and I'm always looking to learn
-more!
+I love to write in Haskell, Nix, Rust, and TypeScript in my spare time. I'm
+comfortable with a lot of mainstream languages and frameworks, and I'm always
+looking to learn more!
 
 Feel free to contact me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
 
 ### Languages and Tools
 
 [<img align="left" alt="Haskell" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"/>]()
-[<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>]()
 [<img align="left" alt="Nix" width="32px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4"/>]()
+[<img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/>]()
+[<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>]()
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>]()
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>]()
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
