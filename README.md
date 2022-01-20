@@ -15,7 +15,7 @@ I love to write in Haskell, Nix, Rust, and TypeScript in my spare time. I'm
 comfortable with a lot of mainstream languages and frameworks, and I'm always
 looking to learn more!
 
-Feel free to contact me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
+Currently seeking a position after graduation! Feel free to contact me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
 
 ### Languages and Tools
 
