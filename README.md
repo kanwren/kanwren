@@ -3,9 +3,10 @@
 Hi! I'm Nicole, whose [pronoun.is/she/her](https://pronoun.is/she/her).
 
 I'm an undergraduate student at the Georgia Institute of Technology,
-concentrating in Theory and System Architecture. I'm also the head TA for CS
-2110 (Intro to Computer Organization and Programming), in which we teach the
-basics of processor architecture, assembly, and C.
+concentrating in Theory and System Architecture. I'm currently researching
+Rust-based parallel and asynchronous HPC runtimes. I'm also the former head TA
+for CS 2110 (Intro to Computer Organization and Programming), in which we teach
+the basics of processor architecture, assembly, and C.
 
 I've recently been specializing in High Performance Computing at Georgia Tech.
 My team won third place in the [2020 Student Cluster Competition](https://sc20.supercomputing.org/program/studentssc/student-cluster-competition/),
@@ -15,7 +16,7 @@ I love to write in Haskell, Nix, Rust, and TypeScript in my spare time. I'm
 comfortable with a lot of mainstream languages and frameworks, and I'm always
 looking to learn more!
 
-Currently seeking a position after graduation! Feel free to contact me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
+Currently seeking internships for the summer of 2022 before grad school! Feel free to contact me at [nprindle@gatech.edu](mailto:nprindle@gatech.edu).
 
 ### Languages and Tools
 
