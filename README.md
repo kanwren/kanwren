@@ -33,5 +33,5 @@ Currently seeking internships for the summer of 2022 before grad school! Feel fr
 
 ---
 
-![nprindle's GitHub stats](https://github-readme-stats.vercel.app/api?username=nprindle&count_private=true&show_icons=true&theme=cobalt)
+![nprindle's GitHub stats](https://github-readme-stats.vercel.app/api?username=nprindle&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
